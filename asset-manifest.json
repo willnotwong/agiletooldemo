@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agiletooldemo/static/css/main.c955f688.chunk.css",
+    "main.js": "/agiletooldemo/static/js/main.42662ba0.chunk.js",
+    "main.js.map": "/agiletooldemo/static/js/main.42662ba0.chunk.js.map",
+    "runtime~main.js": "/agiletooldemo/static/js/runtime~main.8fd124c5.js",
+    "runtime~main.js.map": "/agiletooldemo/static/js/runtime~main.8fd124c5.js.map",
+    "static/js/2.cf67c50c.chunk.js": "/agiletooldemo/static/js/2.cf67c50c.chunk.js",
+    "static/js/2.cf67c50c.chunk.js.map": "/agiletooldemo/static/js/2.cf67c50c.chunk.js.map",
+    "index.html": "/agiletooldemo/index.html",
+    "precache-manifest.e74875245a1fa967e85cfd5326236433.js": "/agiletooldemo/precache-manifest.e74875245a1fa967e85cfd5326236433.js",
+    "service-worker.js": "/agiletooldemo/service-worker.js",
+    "static/css/main.c955f688.chunk.css.map": "/agiletooldemo/static/css/main.c955f688.chunk.css.map"
+  }
+}
